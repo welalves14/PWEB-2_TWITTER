@@ -45,6 +45,7 @@ btnAddPostar.onclick = function(e) {
                       <span class="material-icons"> repeat </span>
                       <span class="material-icons"> favorite_border </span>
                       <span class="material-icons"> publish </span>
+                      <span class="material-icons"> update </span>
                       <span class="material-icons" onclick="removerPost(this.closest('.post').parentElement)"> delete </span>
                       
                     </div>
